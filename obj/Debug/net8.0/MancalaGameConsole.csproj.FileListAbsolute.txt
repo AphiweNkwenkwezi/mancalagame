@@ -1,0 +1,14 @@
+C:\Users\Aphiwe\source\repos\MancalaGameConsole\bin\Debug\net8.0\MancalaGameConsole.exe
+C:\Users\Aphiwe\source\repos\MancalaGameConsole\bin\Debug\net8.0\MancalaGameConsole.deps.json
+C:\Users\Aphiwe\source\repos\MancalaGameConsole\bin\Debug\net8.0\MancalaGameConsole.runtimeconfig.json
+C:\Users\Aphiwe\source\repos\MancalaGameConsole\bin\Debug\net8.0\MancalaGameConsole.dll
+C:\Users\Aphiwe\source\repos\MancalaGameConsole\bin\Debug\net8.0\MancalaGameConsole.pdb
+C:\Users\Aphiwe\source\repos\MancalaGameConsole\obj\Debug\net8.0\MancalaGameConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aphiwe\source\repos\MancalaGameConsole\obj\Debug\net8.0\MancalaGameConsole.AssemblyInfoInputs.cache
+C:\Users\Aphiwe\source\repos\MancalaGameConsole\obj\Debug\net8.0\MancalaGameConsole.AssemblyInfo.cs
+C:\Users\Aphiwe\source\repos\MancalaGameConsole\obj\Debug\net8.0\MancalaGameConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aphiwe\source\repos\MancalaGameConsole\obj\Debug\net8.0\MancalaGameConsole.dll
+C:\Users\Aphiwe\source\repos\MancalaGameConsole\obj\Debug\net8.0\refint\MancalaGameConsole.dll
+C:\Users\Aphiwe\source\repos\MancalaGameConsole\obj\Debug\net8.0\MancalaGameConsole.pdb
+C:\Users\Aphiwe\source\repos\MancalaGameConsole\obj\Debug\net8.0\MancalaGameConsole.genruntimeconfig.cache
+C:\Users\Aphiwe\source\repos\MancalaGameConsole\obj\Debug\net8.0\ref\MancalaGameConsole.dll
